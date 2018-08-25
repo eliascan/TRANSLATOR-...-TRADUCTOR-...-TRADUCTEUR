@@ -1,4 +1,4 @@
-# TRANSLATOR ... TRADUCTOR ... TRADUCTEUR
+# Translator ... Traductor ... Traducteur
 
 # DESCRIPTION
 
