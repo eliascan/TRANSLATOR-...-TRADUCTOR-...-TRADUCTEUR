@@ -33,7 +33,7 @@ La langue prédéfinie est l'anglais.
 -------------------- o --------------------
 
 
-Ordenado por Idioma
+- Ordenado por Idioma
 
 aa	afar
 
