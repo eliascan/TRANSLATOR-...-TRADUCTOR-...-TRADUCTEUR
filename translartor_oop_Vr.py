@@ -2,6 +2,9 @@ from textblob import TextBlob
 from Tkinter import *
 import ttk
 
+'''
+WITH THIS SCRIPT YOU MUST USE PYTHON 2.7 TO RUN IT
+'''
 
 class MyTranslator:
     def __init__(self, master):
