@@ -13,7 +13,7 @@ class MyTranslator:
         master.geometry("375x450")
         master.wm_iconbitmap('icon.png')
 
-        # THE THREE LABELS
+        # LABELS
         self.lb1 = Label(master, text="Place the text to be translated and posted")
         self.lb2 = Label(master, text="Select the language of your preference")
 
@@ -44,7 +44,7 @@ class MyTranslator:
         # LABEL LANGUAGE
         self.lb2.grid(row=2, columnspan=3)
 
-        # COMBOBOXS LANGUAGE
+        # COMBOBOX LANGUAGE
         self.cboxl.grid(row=3, column=0, pady=5, columnspan=3)
 
         # OUTPUT TEXTBOX
