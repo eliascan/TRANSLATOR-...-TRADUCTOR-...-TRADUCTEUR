@@ -6,7 +6,7 @@ import ttk
 class MyTranslator:
     def __init__(self, master):
         self.master = master
-        master.title("Tweet Translator")
+        master.title("Translator")
         master.geometry("375x450")
         master.wm_iconbitmap('icon.png')
 
