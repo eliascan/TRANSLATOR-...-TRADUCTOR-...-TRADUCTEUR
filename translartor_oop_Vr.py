@@ -14,7 +14,7 @@ class MyTranslator:
         master.wm_iconbitmap('icon.png')
 
         # LABELS
-        self.lb1 = Label(master, text="Place the text to be translated and posted")
+        self.lb1 = Label(master, text="Place the text to be translated")
         self.lb2 = Label(master, text="Select the language of your preference")
 
         # INPUT TEXTBOX
